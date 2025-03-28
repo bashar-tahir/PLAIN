@@ -10,8 +10,7 @@ Get started by running the ```main.m``` file. This executes an OFDM-based exampl
 ## Citation
 If you use PLAIN in your work, please cite it (current preprint) as
 ```
-B. Tahir, P. Svoboda, and M. Rupp, “PLAIN: Scalable Estimation Architecture for Integrated Sensing and Communication,” 
-arXiv: 2503.21242, 2025. [Online]. Available: https://arxiv.org/abs/2503.21242
+B. Tahir, P. Svoboda, and M. Rupp, “PLAIN: Scalable Estimation Architecture for Integrated Sensing and Communication,” arXiv:2503.21242, 2025. [Online]. Available: https://arxiv.org/abs/2503.21242
 ```
 BibTeX
 ```
