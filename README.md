@@ -19,7 +19,7 @@ BibTeX
       title={{PLAIN: Scalable Estimation Architecture for Integrated Sensing and Communication}}, 
       author={Bashar Tahir and Philipp Svoboda and Markus Rupp},
       year={2025},
-      howpublished={arXiv: 2503.21242},
+      howpublished={arXiv:2503.21242},
       eprint={2503.21242},
       archivePrefix={arXiv},
       primaryClass={eess.SP},
