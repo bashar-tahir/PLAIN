@@ -1,4 +1,5 @@
 # PLAIN Estimation Architecture
+![alt text](PLAIN.png)
 
 This repository contains the code for the com**p**ressed decoup**l**ed estim**a**tion and **i**nput-based fusio**n** (PLAIN) architecture, aiming for scalable and flexible parameter estimation in the context of integrated sensing and communication (ISAC). 
 
