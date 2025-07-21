@@ -1,6 +1,6 @@
 % ------------------------------------------------------------------------
 %   (c) 2025 Bashar Tahir, bashar.tahir@tuwien.ac.at
-%   Institute of Telecommunications, TU Wien
+%   Christian Doppler Laboratory for Digital Twin assisted AI for sustainable Radio Access Networks, Institute of Telecommunications, TU Wien
 %   https://www.tuwien.at/etit/tc/en/
 %
 %   Cite as:
