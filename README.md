@@ -30,4 +30,6 @@ BibTeX
 }
 ```
 ## Association and Acknowledgements
-At the time of submitting this code, Bashar Tahir and Philipp Svoboda are with Christian Doppler Laboratory for Digital Twin assisted AI for sustainable Radio Access Networks, Institute of Telecommunications, TU Wien, Austria. Markus Rupp is with the Institute of Telecommunications, TU Wien, Austria. The financial support by the Austrian Federal Ministry for Labour and Economy and the National Foundation for Research, Technology and Development, and the Christian Doppler Research Association is gratefully acknowledged.
+At the time of submitting this code, Bashar Tahir and Philipp Svoboda are with Christian Doppler Laboratory for Digital Twin assisted AI for sustainable Radio Access Networks, Institute of Telecommunications, TU Wien, Austria. Markus Rupp is with the Institute of Telecommunications, TU Wien, Austria. 
+
+The financial support by the Austrian Federal Ministry for Labour and Economy and the National Foundation for Research, Technology and Development, and the Christian Doppler Research Association is gratefully acknowledged.
