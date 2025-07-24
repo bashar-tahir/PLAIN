@@ -1,7 +1,7 @@
 %% ------------------------------------------------------------------------
-%   (c) 2025 Bashar Tahir, bashar.tahir@tuwien.ac.at
-%   Institute of Telecommunications, TU Wien
-%   https://www.tuwien.at/etit/tc/en/
+%   (c) 2025 Technische Universität Wien and Nokia
+%   Authored by: Bashar Tahir
+%   Project: Christian Doppler Laboratory for Digital Twin assisted AI for sustainable Radio Access Networks
 % -----------------------------------------------------------------------
 %   Sum-of-paths channel generation
 %
