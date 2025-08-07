@@ -1,3 +1,8 @@
+### *Repository Relocation*
+*The official repository for this project is now hosted on a TU Wien GitLab server [here](https://squid.nt.tuwien.ac.at/gitlab/btahir/PLAIN).*\
+*Update your remotes to point to the new location, if you would like to continue receiving possible future updates.*
+>*This GitHub repository will no longer be actively maintained.*
+***
 # PLAIN Estimation Architecture
 ![alt text](PLAIN.png)
 
